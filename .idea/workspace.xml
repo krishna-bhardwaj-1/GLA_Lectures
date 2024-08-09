@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Loop demo" />
+    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Loop demo">
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +37,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/krishna-bhardwaj-1/GLA_classes_coding_blocks.git",
+    "url": "https://github.com/krishna-bhardwaj-1/GLA_Lectures.git",
     "accountId": "6a8335dd-6599-4571-b425-b06f09b5d720"
   }
 }]]></component>
@@ -47,6 +55,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Inc_dec.executor": "Run",
+    "Application.Q_1.executor": "Run",
+    "Application.Q_2.executor": "Run",
+    "Application.Q_3.executor": "Run",
+    "Application.Q_4.executor": "Run",
+    "Application.Q_7.executor": "Run",
     "Application.prime.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -55,6 +68,26 @@
     "onboarding.tips.debug.path": "/Users/krishna/IdeaProjects/GLA_classes/Lec_1/src/Main.java"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Q_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern_printing.Q_7" />
+      <module name="GLA_classes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pattern_printing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Q_7" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -96,7 +129,31 @@
       <option name="project" value="LOCAL" />
       <updated>1723203970195</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Loop demo">
+      <option name="closed" value="true" />
+      <created>1723204204756</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1723204204756</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Loop demo">
+      <option name="closed" value="true" />
+      <created>1723204689193</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1723204689193</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Loop demo">
+      <option name="closed" value="true" />
+      <created>1723204972264</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1723204972264</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
