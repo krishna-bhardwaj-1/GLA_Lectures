@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Loop demo">
-      <change afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_11.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern_printing/Q_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern_printing/Q_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +52,7 @@
     "Application.Inc_dec.executor": "Run",
     "Application.Q_1.executor": "Run",
     "Application.Q_10.executor": "Run",
+    "Application.Q_11.executor": "Run",
     "Application.Q_2.executor": "Run",
     "Application.Q_3.executor": "Run",
     "Application.Q_4.executor": "Run",
@@ -165,7 +162,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723224409550</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Loop demo">
+      <option name="closed" value="true" />
+      <created>1723286322831</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1723286322831</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
