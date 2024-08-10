@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Loop demo">
-      <change afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pattern_printing/Q_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pattern_printing/Q_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,10 +55,15 @@
   "keyToString": {
     "Application.Inc_dec.executor": "Run",
     "Application.Q_1.executor": "Run",
+    "Application.Q_10.executor": "Run",
     "Application.Q_2.executor": "Run",
     "Application.Q_3.executor": "Run",
     "Application.Q_4.executor": "Run",
+    "Application.Q_5.executor": "Run",
+    "Application.Q_6.executor": "Run",
     "Application.Q_7.executor": "Run",
+    "Application.Q_8.executor": "Run",
+    "Application.Q_9.executor": "Run",
     "Application.prime.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -153,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723204972264</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Loop demo">
+      <option name="closed" value="true" />
+      <created>1723224409550</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1723224409550</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
