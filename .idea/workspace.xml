@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="pattern">
-      <change afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern_printing/Q_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_11.java" afterDir="false" />
+    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="pyramid pattern">
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_31.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,12 +34,12 @@
     &quot;assignee&quot;: &quot;krishna-bhardwaj-1&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/krishna-bhardwaj-1/GLA_Lectures.git",
-    "accountId": "6a8335dd-6599-4571-b425-b06f09b5d720"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/krishna-bhardwaj-1/GLA_Lectures.git&quot;,
+    &quot;accountId&quot;: &quot;6a8335dd-6599-4571-b425-b06f09b5d720&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -54,8 +58,13 @@
     "Application.Q_10.executor": "Run",
     "Application.Q_11.executor": "Run",
     "Application.Q_12.executor": "Run",
+    "Application.Q_13.executor": "Run",
+    "Application.Q_14.executor": "Run",
+    "Application.Q_15.executor": "Run",
+    "Application.Q_16.executor": "Run",
     "Application.Q_2.executor": "Run",
     "Application.Q_3.executor": "Run",
+    "Application.Q_31.executor": "Run",
     "Application.Q_4.executor": "Run",
     "Application.Q_5.executor": "Run",
     "Application.Q_6.executor": "Run",
@@ -179,7 +188,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723289404772</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="pyramid pattern">
+      <option name="closed" value="true" />
+      <created>1723300703140</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1723300703140</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,7 +213,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Loop demo" />
     <MESSAGE value="pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="pattern" />
+    <MESSAGE value="pyramid pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="pyramid pattern" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
