@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="pyramid pattern">
-      <change afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_31.java" afterDir="false" />
+    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="pyramid pattern/Arrow patterns">
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_25.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +61,9 @@
     "Application.Q_15.executor": "Run",
     "Application.Q_16.executor": "Run",
     "Application.Q_2.executor": "Run",
+    "Application.Q_23.executor": "Run",
+    "Application.Q_24.executor": "Run",
+    "Application.Q_25.executor": "Run",
     "Application.Q_3.executor": "Run",
     "Application.Q_31.executor": "Run",
     "Application.Q_4.executor": "Run",
@@ -196,7 +197,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723300703140</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="pyramid pattern/Arrow patterns">
+      <option name="closed" value="true" />
+      <created>1723364432602</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1723364432602</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,7 +223,8 @@
     <MESSAGE value="Loop demo" />
     <MESSAGE value="pattern" />
     <MESSAGE value="pyramid pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="pyramid pattern" />
+    <MESSAGE value="pyramid pattern/Arrow patterns" />
+    <option name="LAST_COMMIT_MESSAGE" value="pyramid pattern/Arrow patterns" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
