@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="patterns">
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_22.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern_printing/Q_25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_25.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +39,9 @@
     &quot;accountId&quot;: &quot;6a8335dd-6599-4571-b425-b06f09b5d720&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Pattern_printing/Q_15.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -58,8 +64,12 @@
     "Application.Q_14.executor": "Run",
     "Application.Q_15.executor": "Run",
     "Application.Q_16.executor": "Run",
+    "Application.Q_18.executor": "Run",
+    "Application.Q_19.executor": "Run",
     "Application.Q_2.executor": "Run",
     "Application.Q_20.executor": "Run",
+    "Application.Q_21.executor": "Run",
+    "Application.Q_22.executor": "Run",
     "Application.Q_23.executor": "Run",
     "Application.Q_24.executor": "Run",
     "Application.Q_25.executor": "Run",
@@ -221,7 +231,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723481931887</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="patterns">
+      <option name="closed" value="true" />
+      <created>1723548160189</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1723548160189</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
