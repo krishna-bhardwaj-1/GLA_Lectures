@@ -2,7 +2,7 @@ package Pattern_printing;
 
 import java.util.Scanner;
 
-public class Q_19 {
+public class Q_17 {
     public static void main(String[] args) {
         /*
          * * *   * * *
