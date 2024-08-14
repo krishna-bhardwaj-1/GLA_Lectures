@@ -4,11 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="patterns">
-      <change afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_27.java" afterDir="false" />
+    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="patterns logics">
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern_printing/Q_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern_printing/Q_26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern_printing/Q_26.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +66,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Inc_dec.executor": "Run",
+    "Application.Pattern_1.executor": "Run",
+    "Application.Pattern_10.executor": "Run",
+    "Application.Pattern_11.executor": "Run",
+    "Application.Pattern_12.executor": "Run",
+    "Application.Pattern_13.executor": "Run",
+    "Application.Pattern_14.executor": "Run",
+    "Application.Pattern_2.executor": "Run",
+    "Application.Pattern_21.executor": "Run",
+    "Application.Pattern_22.executor": "Run",
+    "Application.Pattern_3.executor": "Run",
+    "Application.Pattern_4.executor": "Run",
+    "Application.Pattern_5.executor": "Run",
+    "Application.Pattern_6.executor": "Run",
+    "Application.Pattern_9.executor": "Run",
     "Application.Q_1.executor": "Run",
     "Application.Q_10.executor": "Run",
     "Application.Q_11.executor": "Run",
@@ -263,7 +288,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723571496775</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="patterns logics">
+      <option name="closed" value="true" />
+      <created>1723574563530</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1723574563530</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -284,7 +317,8 @@
     <MESSAGE value="pyramid pattern/Arrow patterns" />
     <MESSAGE value="Numbers pyramid patterns" />
     <MESSAGE value="patterns" />
-    <option name="LAST_COMMIT_MESSAGE" value="patterns" />
+    <MESSAGE value="patterns logics" />
+    <option name="LAST_COMMIT_MESSAGE" value="patterns logics" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
