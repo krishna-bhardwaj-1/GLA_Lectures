@@ -4,6 +4,17 @@ import java.util.Scanner;
 
 public class Pattern_14 {
     public static void main(String[] args) {
+        /*
+                     *
+                  *  *
+               *  *  *
+            *  *  *  *
+         *  *  *  *  *
+            *  *  *  *
+               *  *  *
+                  *  *
+                     *
+         */
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
         int star=1;
@@ -13,12 +24,12 @@ public class Pattern_14 {
             int i=1,j=1;
             //space
             while(i<=space){
-                System.out.print("  ");
+                System.out.print("   ");
                 i++;
             }
             //star
             while(j<=star){
-                System.out.print("* ");
+                System.out.print("*  ");
                 j++;
             }
             //mirror for stars
