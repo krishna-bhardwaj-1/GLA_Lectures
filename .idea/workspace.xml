@@ -5,24 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="patterns using while loop">
-      <change afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_1/Count_digit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_1/Mirror_star_pattern_pattern_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_1/odd_even_placesum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_18.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +55,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Count_digit.executor": "Run",
     "Application.Inc_dec.executor": "Run",
     "Application.Pattern_1.executor": "Run",
     "Application.Pattern_10.executor": "Run",
@@ -78,6 +66,7 @@
     "Application.Pattern_15.executor": "Run",
     "Application.Pattern_16.executor": "Run",
     "Application.Pattern_17.executor": "Run",
+    "Application.Pattern_18.executor": "Run",
     "Application.Pattern_2.executor": "Run",
     "Application.Pattern_21.executor": "Run",
     "Application.Pattern_22.executor": "Run",
@@ -113,6 +102,7 @@
     "Application.Q_7.executor": "Run",
     "Application.Q_8.executor": "Run",
     "Application.Q_9.executor": "Run",
+    "Application.odd_even_placesum.executor": "Run",
     "Application.prime.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -310,7 +300,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723632781506</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="patterns using while loop">
+      <option name="closed" value="true" />
+      <created>1723655955686</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1723655955686</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
