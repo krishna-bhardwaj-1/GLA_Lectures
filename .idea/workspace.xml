@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="patterns using while loop">
-      <change afterPath="$PROJECT_DIR$/src/Assignment_1/Count_digit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_1/Mirror_star_pattern_pattern_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_1/odd_even_placesum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_1/Hollow_rhombus_pattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +53,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Count_digit.executor": "Run",
+    "Application.Hollow_rhombus_pattern.executor": "Run",
     "Application.Inc_dec.executor": "Run",
     "Application.Pattern_1.executor": "Run",
     "Application.Pattern_10.executor": "Run",
@@ -308,7 +306,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723655955686</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="patterns using while loop">
+      <option name="closed" value="true" />
+      <created>1723820773695</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1723820773695</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
