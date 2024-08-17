@@ -22,6 +22,7 @@ public class Hollow_rhombus_pattern {
                 else System.out.print("  ");
                 j++;
             }
+
             //preparation
             space--;
             System.out.println();
