@@ -8,33 +8,26 @@ public class Pattern_inverted_hour_glass {
         int n=sc.nextInt();
         int row=1;
         int star=1;
+        int st=5;
         int spaces=2*n-1;
-        while(row<=2*n+1){
-            int i=1,j=1,k=5,q=k;
+        while(row<=2*n+1) {
+            int i = 1, j = 1,k=5;
             //star
-            int c=5;
-            while(i<=star){
-                System.out.print(c+" ");
+            int c = 5;
+            while (i <= star) {
+                System.out.print(c + " ");
                 c--;
                 i++;
             }
             //space
-            while(j<=spaces){
+            while (j <= spaces) {
                 System.out.print("@ ");
                 j++;
             }
             //star
-            while(k>=star){
-                while(q<=n){
-                    System.out.print(q+" ");
-                    q++;
-                }
-                k--;
-            }
-            if(row<=n) spaces-=2;
-            else spaces+=2;
-            if(row<=n) star++;
-            else star--;
+
+            if(row<=n){ star++; spaces-=2;}
+            else{ star--; spaces+=2;}
             System.out.println();
             row++;
         }
