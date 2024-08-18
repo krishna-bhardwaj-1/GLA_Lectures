@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Assignment coding blocks">
+      <change afterPath="$PROJECT_DIR$/src/Assignment_1/rev_pattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Assignment_1/Pattern_inverted_hour_glass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_1/Pattern_inverted_hour_glass.java" afterDir="false" />
     </list>
@@ -108,6 +109,7 @@
     "Application.odd_even_placesum.executor": "Run",
     "Application.pattern_1.executor": "Run",
     "Application.prime.executor": "Run",
+    "Application.rev_pattern.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -352,7 +354,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723966613461</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Assignment coding blocks">
+      <option name="closed" value="true" />
+      <created>1723976082528</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1723976082528</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
