@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Assignment coding blocks">
-      <change afterPath="$PROJECT_DIR$/src/Assignment_1/linear_search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_1/max_value_in_array.java" afterDir="false" />
+    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Assignment coding blocks(array)">
+      <change afterPath="$PROJECT_DIR$/src/Assignment_1/Reverse_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +75,7 @@
     "Application.Pattern_4.executor": "Run",
     "Application.Pattern_5.executor": "Run",
     "Application.Pattern_6.executor": "Run",
+    "Application.Pattern_7.executor": "Run",
     "Application.Pattern_9.executor": "Run",
     "Application.Pattern_inverted_hour_glass.executor": "Run",
     "Application.Print_series.executor": "Run",
@@ -105,6 +106,7 @@
     "Application.Q_7.executor": "Run",
     "Application.Q_8.executor": "Run",
     "Application.Q_9.executor": "Run",
+    "Application.Reverse_array.executor": "Run",
     "Application.check_prime.executor": "Run",
     "Application.linear_search.executor": "Run",
     "Application.max_value_in_array.executor": "Run",
@@ -372,7 +374,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723983683528</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Assignment coding blocks(array)">
+      <option name="closed" value="true" />
+      <created>1724084598122</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1724084598123</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -396,7 +406,8 @@
     <MESSAGE value="patterns logics" />
     <MESSAGE value="patterns using while loop" />
     <MESSAGE value="Assignment coding blocks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assignment coding blocks" />
+    <MESSAGE value="Assignment coding blocks(array)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment coding blocks(array)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
