@@ -15,6 +15,7 @@ public class Pattern_20 {
                 System.out.print("@ ");
                 i++;
             }
+
             while(j<=star){
                 System.out.print("* ");
                 j++;
