@@ -18,6 +18,7 @@ public class Pattern_15 {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
         int star=n;
+
         int row=1;
         int space=0;
         while(row<=2*n-1){
