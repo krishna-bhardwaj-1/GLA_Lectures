@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="pattern using while">
-      <change afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_24.java" afterDir="false" />
+    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Lecture_3">
+      <change afterPath="$PROJECT_DIR$/src/Assignment_6478/Hollow_diamond_pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_6478/Hollow_rhombus_pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_6478/Mirror_star_pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_6478/Pattern_number_ladder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_6478/Pattern_with_zeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_6478/pattern_triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,9 +59,12 @@
   "keyToString": {
     "Application.Count_digit.executor": "Run",
     "Application.Fahrenhite_to_celcius.executor": "Run",
+    "Application.For_loops.executor": "Run",
     "Application.GCD.executor": "Run",
+    "Application.Hollow_diamond_pattern.executor": "Run",
     "Application.Hollow_rhombus_pattern.executor": "Run",
     "Application.Inc_dec.executor": "Run",
+    "Application.Mirror_star_pattern.executor": "Run",
     "Application.Pattern_1.executor": "Run",
     "Application.Pattern_10.executor": "Run",
     "Application.Pattern_11.executor": "Run",
@@ -75,6 +82,9 @@
     "Application.Pattern_22.executor": "Run",
     "Application.Pattern_23.executor": "Run",
     "Application.Pattern_24.executor": "Run",
+    "Application.Pattern_25.executor": "Run",
+    "Application.Pattern_26.executor": "Run",
+    "Application.Pattern_27.executor": "Run",
     "Application.Pattern_3.executor": "Run",
     "Application.Pattern_4.executor": "Run",
     "Application.Pattern_5.executor": "Run",
@@ -83,6 +93,9 @@
     "Application.Pattern_8.executor": "Run",
     "Application.Pattern_9.executor": "Run",
     "Application.Pattern_inverted_hour_glass.executor": "Run",
+    "Application.Pattern_number_ladder.executor": "Run",
+    "Application.Pattern_rhombus.executor": "Run",
+    "Application.Pattern_with_zeroes.executor": "Run",
     "Application.Print_series.executor": "Run",
     "Application.Q_1.executor": "Run",
     "Application.Q_10.executor": "Run",
@@ -112,11 +125,14 @@
     "Application.Q_8.executor": "Run",
     "Application.Q_9.executor": "Run",
     "Application.Reverse_array.executor": "Run",
+    "Application.catch_the_coin.executor": "Run",
     "Application.check_prime.executor": "Run",
+    "Application.fibonacci_number.executor": "Run",
     "Application.linear_search.executor": "Run",
     "Application.max_value_in_array.executor": "Run",
     "Application.odd_even_placesum.executor": "Run",
     "Application.pattern_1.executor": "Run",
+    "Application.pattern_triangle.executor": "Run",
     "Application.prime.executor": "Run",
     "Application.rev_pattern.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -435,7 +451,31 @@
       <option name="project" value="LOCAL" />
       <updated>1724262859201</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="pattern using while">
+      <option name="closed" value="true" />
+      <created>1724316412837</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1724316412837</updated>
+    </task>
+    <task id="LOCAL-00037" summary="pattern using while">
+      <option name="closed" value="true" />
+      <created>1724344219704</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1724344219704</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Lecture_3">
+      <option name="closed" value="true" />
+      <created>1724344244747</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1724344244747</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -461,7 +501,8 @@
     <MESSAGE value="Assignment coding blocks" />
     <MESSAGE value="Assignment coding blocks(array)" />
     <MESSAGE value="pattern using while" />
-    <option name="LAST_COMMIT_MESSAGE" value="pattern using while" />
+    <MESSAGE value="Lecture_3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lecture_3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
