@@ -15,7 +15,8 @@ public class fibonacci_number {
             c=a+b;
             a=b;
             b=c;
+            System.out.print(c+" ");
         }
-        System.out.print(c);
+
     }
 }
