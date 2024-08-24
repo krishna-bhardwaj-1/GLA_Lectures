@@ -4,14 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Lecture_3">
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6478/Hollow_diamond_pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6478/Hollow_rhombus_pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6478/Mirror_star_pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6478/Pattern_number_ladder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6478/Pattern_with_zeroes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6478/pattern_triangle.java" afterDir="false" />
+    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Assignment_6478">
+      <change afterPath="$PROJECT_DIR$/src/Assignment_6478/Pascals_triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_6478/Pattern_double_sided_arrow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_6478/Pattern_hour_glass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_6478/Pattern_invertes_hour_glass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_6478/Pattern_mountain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_6478/R4__pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_6478/fibonacci_pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_6478/pattern_magic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_3/watermelon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment_6478/Pattern_with_zeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_6478/Pattern_with_zeroes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture_3/fibonacci_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture_3/fibonacci_number.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +26,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -65,6 +71,7 @@
     "Application.Hollow_rhombus_pattern.executor": "Run",
     "Application.Inc_dec.executor": "Run",
     "Application.Mirror_star_pattern.executor": "Run",
+    "Application.Pascals_triangle.executor": "Run",
     "Application.Pattern_1.executor": "Run",
     "Application.Pattern_10.executor": "Run",
     "Application.Pattern_11.executor": "Run",
@@ -92,7 +99,11 @@
     "Application.Pattern_7.executor": "Run",
     "Application.Pattern_8.executor": "Run",
     "Application.Pattern_9.executor": "Run",
+    "Application.Pattern_double_sided_arrow.executor": "Run",
+    "Application.Pattern_hour_glass.executor": "Run",
     "Application.Pattern_inverted_hour_glass.executor": "Run",
+    "Application.Pattern_invertes_hour_glass.executor": "Run",
+    "Application.Pattern_mountain.executor": "Run",
     "Application.Pattern_number_ladder.executor": "Run",
     "Application.Pattern_rhombus.executor": "Run",
     "Application.Pattern_with_zeroes.executor": "Run",
@@ -124,17 +135,21 @@
     "Application.Q_7.executor": "Run",
     "Application.Q_8.executor": "Run",
     "Application.Q_9.executor": "Run",
+    "Application.R4__pattern.executor": "Run",
     "Application.Reverse_array.executor": "Run",
     "Application.catch_the_coin.executor": "Run",
     "Application.check_prime.executor": "Run",
     "Application.fibonacci_number.executor": "Run",
+    "Application.fibonacci_pattern.executor": "Run",
     "Application.linear_search.executor": "Run",
     "Application.max_value_in_array.executor": "Run",
     "Application.odd_even_placesum.executor": "Run",
     "Application.pattern_1.executor": "Run",
+    "Application.pattern_magic.executor": "Run",
     "Application.pattern_triangle.executor": "Run",
     "Application.prime.executor": "Run",
     "Application.rev_pattern.executor": "Run",
+    "Application.watermelon.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -475,7 +490,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724344244747</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Assignment_6478">
+      <option name="closed" value="true" />
+      <created>1724433269775</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1724433269775</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Assignment_6478">
+      <option name="closed" value="true" />
+      <created>1724433279001</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1724433279001</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -502,7 +533,8 @@
     <MESSAGE value="Assignment coding blocks(array)" />
     <MESSAGE value="pattern using while" />
     <MESSAGE value="Lecture_3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lecture_3" />
+    <MESSAGE value="Assignment_6478" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment_6478" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
