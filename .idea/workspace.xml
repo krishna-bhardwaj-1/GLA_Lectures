@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Assignment_6478">
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6478/Pascals_triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6478/Pattern_double_sided_arrow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6478/Pattern_hour_glass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6478/Pattern_invertes_hour_glass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6478/Pattern_mountain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6478/R4__pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6478/fibonacci_pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6478/pattern_magic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture_3/watermelon.java" afterDir="false" />
+    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Lecture 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment_6478/Pattern_with_zeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_6478/Pattern_with_zeroes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_3/fibonacci_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture_3/fibonacci_number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment_1/GCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_1/GCD.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -506,7 +496,39 @@
       <option name="project" value="LOCAL" />
       <updated>1724433279001</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Assignment_6478">
+      <option name="closed" value="true" />
+      <created>1724501273789</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1724501273789</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Assignment_6478">
+      <option name="closed" value="true" />
+      <created>1724501295154</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1724501295154</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Assignment_6478">
+      <option name="closed" value="true" />
+      <created>1724501315253</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1724501315253</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Lecture 3">
+      <option name="closed" value="true" />
+      <created>1724501340014</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1724501340014</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -534,7 +556,8 @@
     <MESSAGE value="pattern using while" />
     <MESSAGE value="Lecture_3" />
     <MESSAGE value="Assignment_6478" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assignment_6478" />
+    <MESSAGE value="Lecture 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lecture 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
