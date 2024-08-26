@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Lecture 3">
+      <change afterPath="$PROJECT_DIR$/src/CB/Prime_Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_33.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment_1/GCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_1/GCD.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +87,10 @@
     "Application.Pattern_26.executor": "Run",
     "Application.Pattern_27.executor": "Run",
     "Application.Pattern_3.executor": "Run",
+    "Application.Pattern_30.executor": "Run",
+    "Application.Pattern_31.executor": "Run",
+    "Application.Pattern_32.executor": "Run",
+    "Application.Pattern_33.executor": "Run",
     "Application.Pattern_4.executor": "Run",
     "Application.Pattern_5.executor": "Run",
     "Application.Pattern_6.executor": "Run",
@@ -97,6 +105,7 @@
     "Application.Pattern_number_ladder.executor": "Run",
     "Application.Pattern_rhombus.executor": "Run",
     "Application.Pattern_with_zeroes.executor": "Run",
+    "Application.Prime_Game.executor": "Run",
     "Application.Print_series.executor": "Run",
     "Application.Q_1.executor": "Run",
     "Application.Q_10.executor": "Run",
@@ -528,7 +537,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724501340014</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Lecture 3">
+      <option name="closed" value="true" />
+      <created>1724585742792</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1724585742792</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
