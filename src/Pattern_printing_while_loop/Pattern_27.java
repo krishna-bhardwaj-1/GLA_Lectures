@@ -23,6 +23,7 @@ public static void main(String[] args) {
                 else val--;
                 j++;
             }
+
             space--;
             star+=2;
             System.out.println();
