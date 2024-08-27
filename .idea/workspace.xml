@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Lecture 3">
-      <change afterPath="$PROJECT_DIR$/src/CB/Prime_Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_33.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Number pattern">
+      <change afterPath="$PROJECT_DIR$/src/Pattern_printing_while_loop/Pattern_28.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +81,7 @@
     "Application.Pattern_25.executor": "Run",
     "Application.Pattern_26.executor": "Run",
     "Application.Pattern_27.executor": "Run",
+    "Application.Pattern_28.executor": "Run",
     "Application.Pattern_3.executor": "Run",
     "Application.Pattern_30.executor": "Run",
     "Application.Pattern_31.executor": "Run",
@@ -545,7 +541,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724585742792</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Number pattern">
+      <option name="closed" value="true" />
+      <created>1724670518693</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1724670518693</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -574,7 +578,8 @@
     <MESSAGE value="Lecture_3" />
     <MESSAGE value="Assignment_6478" />
     <MESSAGE value="Lecture 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lecture 3" />
+    <MESSAGE value="Number pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="Number pattern" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
