@@ -21,6 +21,7 @@ public class Data_types_demo {
 
         int a=032;
         System.out.println(a);
+
 //      int ab=0328;  //it is out of range.
 //      System.out.println(ab);
 
