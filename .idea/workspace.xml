@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Number_pattern">
-      <change afterPath="$PROJECT_DIR$/src/Lecture_4/Bin_to_dec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture_4/Data_types_demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture_4/Dec_to_bin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture_4/datatypes.java" afterDir="false" />
+    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="data types">
+      <change afterPath="$PROJECT_DIR$/src/Lecture_5/inverse_of_no.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_5/pascals_triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_4/kri.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,11 +139,15 @@
     "Application.Reverse_array.executor": "Run",
     "Application.catch_the_coin.executor": "Run",
     "Application.check_prime.executor": "Run",
+    "Application.datatypes_demo_3.executor": "Run",
+    "Application.datatypes_demo_4.executor": "Run",
     "Application.fibonacci_number.executor": "Run",
     "Application.fibonacci_pattern.executor": "Run",
+    "Application.inverse_of_no.executor": "Run",
     "Application.linear_search.executor": "Run",
     "Application.max_value_in_array.executor": "Run",
     "Application.odd_even_placesum.executor": "Run",
+    "Application.pascals_triangle.executor": "Run",
     "Application.pattern_1.executor": "Run",
     "Application.pattern_magic.executor": "Run",
     "Application.pattern_triangle.executor": "Run",
@@ -188,30 +189,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723201357898</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Loop demo">
-      <option name="closed" value="true" />
-      <created>1723203225316</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1723203225316</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Loop demo">
-      <option name="closed" value="true" />
-      <created>1723203803978</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1723203803978</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Loop demo">
-      <option name="closed" value="true" />
-      <created>1723203970195</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1723203970195</updated>
     </task>
     <task id="LOCAL-00005" summary="Loop demo">
       <option name="closed" value="true" />
@@ -581,7 +558,31 @@
       <option name="project" value="LOCAL" />
       <updated>1724780924319</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="data types">
+      <option name="closed" value="true" />
+      <created>1724866370383</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1724866370384</updated>
+    </task>
+    <task id="LOCAL-00052" summary="data types">
+      <option name="closed" value="true" />
+      <created>1724866401463</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1724866401463</updated>
+    </task>
+    <task id="LOCAL-00053" summary="data types">
+      <option name="closed" value="true" />
+      <created>1724951818639</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1724951818639</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -612,7 +613,8 @@
     <MESSAGE value="Lecture 3" />
     <MESSAGE value="Number pattern" />
     <MESSAGE value="Number_pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="Number_pattern" />
+    <MESSAGE value="data types" />
+    <option name="LAST_COMMIT_MESSAGE" value="data types" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
