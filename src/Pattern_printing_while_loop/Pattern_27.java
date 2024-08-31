@@ -4,6 +4,13 @@ import java.util.Scanner;
 
 public class Pattern_27 {
 public static void main(String[] args) {
+    /*
+                            1
+                        1	2	1
+                    1	2	3	2	1
+                1	2	3	4	3	2	1
+            1	2	3	4	5	4	3	2	1
+     */
     //vertical mirroring   (star+1)/2 =
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();

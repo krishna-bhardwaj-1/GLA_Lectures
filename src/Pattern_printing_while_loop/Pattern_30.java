@@ -4,6 +4,13 @@ import java.util.Scanner;
 
 public class Pattern_30 {
     public static void main(String[] args) {
+        /*
+                5  4  3  2  1
+                5  4  3  2  1
+                5  4  3  2  1
+                5  4  3  2  1
+                5  4  3  2  1
+         */
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
         int star=5;
@@ -12,7 +19,7 @@ public class Pattern_30 {
             int val=n;
             int i=1;
             while(i<=star){
-                System.out.print(val+" ");
+                System.out.print(val+"  ");
                 val--;
                 i++;
             }

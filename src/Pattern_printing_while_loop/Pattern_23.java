@@ -4,6 +4,13 @@ import java.util.Scanner;
 
 public class Pattern_23 {
     public static void main(String[] args) {
+        /*
+                        1
+                      1 1 1
+                    1 1 1 1 1
+                  1 1 1 1 1 1 1
+                1 1 1 1 1 1 1 1 1
+         */
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
         int row=1;

@@ -4,6 +4,17 @@ import java.util.Scanner;
 
 public class Pattern_32 {
     public static void main(String[] args) {
+        /*
+                1
+                2   *   2
+                3   *   3   *   3
+                4   *   4   *   4   *   4
+                5   *   5   *   5   *   5   *   5
+                4   *   4   *   4   *   4
+                3   *   3   *   3
+                2   *   2
+                1
+         */
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
         int star=1;
