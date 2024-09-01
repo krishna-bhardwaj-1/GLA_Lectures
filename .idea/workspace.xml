@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="sampoorna asgnment">
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6498/GCD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6498/LCM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6498/bin_to_dec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6498/count_digit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6498/fahrenhite_to_celcius.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6498/fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6498/reverse_number.java" afterDir="false" />
+    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="pattern using while">
+      <change afterPath="$PROJECT_DIR$/src/Assignment_6498/check_prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_6498/inverse_number.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,6 +88,7 @@
     "Application.Pattern_26.executor": "Run",
     "Application.Pattern_27.executor": "Run",
     "Application.Pattern_28.executor": "Run",
+    "Application.Pattern_29.executor": "Run",
     "Application.Pattern_3.executor": "Run",
     "Application.Pattern_30.executor": "Run",
     "Application.Pattern_31.executor": "Run",
@@ -153,6 +149,7 @@
     "Application.fibonacci.executor": "Run",
     "Application.fibonacci_number.executor": "Run",
     "Application.fibonacci_pattern.executor": "Run",
+    "Application.inverse_number.executor": "Run",
     "Application.inverse_of_no.executor": "Run",
     "Application.linear_search.executor": "Run",
     "Application.max_value_in_array.executor": "Run",
@@ -201,22 +198,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723201357898</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Loop demo">
-      <option name="closed" value="true" />
-      <created>1723204972264</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1723204972264</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Loop demo">
-      <option name="closed" value="true" />
-      <created>1723224409550</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1723224409550</updated>
     </task>
     <task id="LOCAL-00009" summary="Loop demo">
       <option name="closed" value="true" />
@@ -594,7 +575,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725039193840</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="sampoorna asgnment">
+      <option name="closed" value="true" />
+      <created>1725088546651</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1725088546651</updated>
+    </task>
+    <task id="LOCAL-00057" summary="pattern using while">
+      <option name="closed" value="true" />
+      <created>1725103931857</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1725103931858</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -619,7 +616,6 @@
     <MESSAGE value="patterns using while loop" />
     <MESSAGE value="Assignment coding blocks" />
     <MESSAGE value="Assignment coding blocks(array)" />
-    <MESSAGE value="pattern using while" />
     <MESSAGE value="Lecture_3" />
     <MESSAGE value="Assignment_6478" />
     <MESSAGE value="Lecture 3" />
@@ -628,7 +624,8 @@
     <MESSAGE value="data types" />
     <MESSAGE value="coding_dynamic-programming" />
     <MESSAGE value="sampoorna asgnment" />
-    <option name="LAST_COMMIT_MESSAGE" value="sampoorna asgnment" />
+    <MESSAGE value="pattern using while" />
+    <option name="LAST_COMMIT_MESSAGE" value="pattern using while" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
