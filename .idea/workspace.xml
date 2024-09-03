@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Assignment 6489">
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6498/print_series.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_6498/replace_them_all.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -159,6 +159,8 @@
     "Application.pattern_magic.executor": "Run",
     "Application.pattern_triangle.executor": "Run",
     "Application.prime.executor": "Run",
+    "Application.print_series.executor": "Run",
+    "Application.replace_them_all.executor": "Run",
     "Application.rev_pattern.executor": "Run",
     "Application.reverse_number.executor": "Run",
     "Application.watermelon.executor": "Run",
@@ -197,14 +199,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723201357898</updated>
-    </task>
-    <task id="LOCAL-00010" summary="pattern">
-      <option name="closed" value="true" />
-      <created>1723289404772</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1723289404772</updated>
     </task>
     <task id="LOCAL-00011" summary="pyramid pattern">
       <option name="closed" value="true" />
@@ -590,7 +584,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725208825295</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Assignment 6489">
+      <option name="closed" value="true" />
+      <created>1725295823314</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1725295823314</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
