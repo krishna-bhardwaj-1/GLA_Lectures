@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Assignment 6489">
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6498/replace_them_all.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_6498/Boston_number.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Bin_to_dec.executor": "Run",
+    "Application.Boston_number.executor": "Run",
     "Application.Count_digit.executor": "Run",
     "Application.Data_types_demo.executor": "Run",
     "Application.Dec_to_bin.executor": "Run",
@@ -199,14 +200,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723201357898</updated>
-    </task>
-    <task id="LOCAL-00011" summary="pyramid pattern">
-      <option name="closed" value="true" />
-      <created>1723300703140</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1723300703140</updated>
     </task>
     <task id="LOCAL-00012" summary="pyramid pattern/Arrow patterns">
       <option name="closed" value="true" />
@@ -592,7 +585,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725295823314</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Assignment 6489">
+      <option name="closed" value="true" />
+      <created>1725380948584</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1725380948584</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
