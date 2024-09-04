@@ -17,7 +17,6 @@ public class Boston_number {
         while(n>0){
             int c=n%10;
             sm+=c;
-
             n/=10;
         }
         if(sum==sm) System.out.print(1);

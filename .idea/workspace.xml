@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Assignment 6489">
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6498/Boston_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_6/Armstrong_function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_6/Armstrong_no.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_6/Fun_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_6/Userinput_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_6/array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_6/parameterized_fun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_6/returntype_fun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_6/returntype_fun2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment_6498/Boston_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_6498/Boston_number.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +61,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Armstrong_function.executor": "Run",
+    "Application.Armstrong_no.executor": "Run",
     "Application.Bin_to_dec.executor": "Run",
     "Application.Boston_number.executor": "Run",
     "Application.Count_digit.executor": "Run",
@@ -60,6 +70,7 @@
     "Application.Dec_to_bin.executor": "Run",
     "Application.Fahrenhite_to_celcius.executor": "Run",
     "Application.For_loops.executor": "Run",
+    "Application.Fun_Demo.executor": "Run",
     "Application.GCD.executor": "Run",
     "Application.Hollow_diamond_pattern.executor": "Run",
     "Application.Hollow_rhombus_pattern.executor": "Run",
@@ -139,6 +150,8 @@
     "Application.Q_9.executor": "Run",
     "Application.R4__pattern.executor": "Run",
     "Application.Reverse_array.executor": "Run",
+    "Application.Userinput_array.executor": "Run",
+    "Application.array.executor": "Run",
     "Application.bin_to_dec.executor": "Run",
     "Application.catch_the_coin.executor": "Run",
     "Application.check_prime.executor": "Run",
@@ -155,6 +168,7 @@
     "Application.max_value_in_array.executor": "Run",
     "Application.odd_even_placesum.executor": "Run",
     "Application.oddplace_and_evenplacedigit.executor": "Run",
+    "Application.parameterized_fun.executor": "Run",
     "Application.pascals_triangle.executor": "Run",
     "Application.pattern_1.executor": "Run",
     "Application.pattern_magic.executor": "Run",
@@ -162,9 +176,15 @@
     "Application.prime.executor": "Run",
     "Application.print_series.executor": "Run",
     "Application.replace_them_all.executor": "Run",
+    "Application.returntype_fun.executor": "Run",
+    "Application.returntype_fun2.executor": "Run",
     "Application.rev_pattern.executor": "Run",
     "Application.reverse_number.executor": "Run",
     "Application.watermelon.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -200,22 +220,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723201357898</updated>
-    </task>
-    <task id="LOCAL-00012" summary="pyramid pattern/Arrow patterns">
-      <option name="closed" value="true" />
-      <created>1723364432602</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1723364432602</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Numbers pyramid patterns">
-      <option name="closed" value="true" />
-      <created>1723480025153</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1723480025153</updated>
     </task>
     <task id="LOCAL-00014" summary="patterns">
       <option name="closed" value="true" />
@@ -593,7 +597,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725380948584</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Assignment 6489">
+      <option name="closed" value="true" />
+      <created>1725381910337</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1725381910337</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Assignment 6489">
+      <option name="closed" value="true" />
+      <created>1725381941648</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1725381941649</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
