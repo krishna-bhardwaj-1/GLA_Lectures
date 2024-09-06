@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Lecture_7">
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6498/chewbacca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6498/odd_even_backindelhi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6498/shopping_game.java" afterDir="false" />
+    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Assignment 6553">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment_6498/Any_to_Any.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_6498/Any_to_Any.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_7/rotate_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture_7/rotate_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment_6498/check_prime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_6498/check_prime.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -241,14 +237,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723201357898</updated>
-    </task>
-    <task id="LOCAL-00016" summary="patterns">
-      <option name="closed" value="true" />
-      <created>1723569629939</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1723569629939</updated>
     </task>
     <task id="LOCAL-00017" summary="patterns">
       <option name="closed" value="true" />
@@ -634,7 +622,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725553439124</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Assignment 6553">
+      <option name="closed" value="true" />
+      <created>1725641488583</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1725641488583</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -671,7 +667,8 @@
     <MESSAGE value="Assignment 6489" />
     <MESSAGE value="Lecture_6" />
     <MESSAGE value="Lecture_7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lecture_7" />
+    <MESSAGE value="Assignment 6553" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment 6553" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
