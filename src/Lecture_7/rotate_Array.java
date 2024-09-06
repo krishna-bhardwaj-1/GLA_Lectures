@@ -9,10 +9,9 @@ public class rotate_Array {
 //        rotate 2 steps to the right: [6,7,1,2,3,4,5]
 //        rotate 3 steps to the right: [5,6,7,1,2,3,4]
 //        it is a periodic function that's why cut the length by % if it exceed th length.
-
+        int[] arr={2,1,3,4,5};
         int k=3;
         Rotate(arr,k);
-        for(int i=0)
     }
     public static void Rotate(int [] arr,int k){
         int n=arr.length;

@@ -17,10 +17,10 @@ public class Any_to_Any {
         }
         int s=0,mul=1;
         while(sum>0){
-            int rem=sum%2;
+            int rem=sum%db;
             s+=rem*mul;
             mul*=10;
-            sum/=2;
+            sum/=db;
         }
         System.out.println(s);
     }
