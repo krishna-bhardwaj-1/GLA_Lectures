@@ -5,18 +5,16 @@ import java.util.Scanner;
 public class chewbacca {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
-        int c=1,sum=0;
-        while (n > 0) {
-            int rem=n%10;
-            if(rem>9-rem){
-                rem=9-rem;
-                sum+=rem*c;
-            }
-            else sum+=rem*c;
-            c*=10;
-            n/=10;
+        Long n = sc.nextLong();
+        Long c=1L,sum=0L;
+        while(n>0){
+            Long rem=n%10L;
+            if(rem>9L-rem) rem=9L-rem;
+            if(rem==0L&&n<10L) rem=9L;
+            sum+=rem*c;
+            c*=10L;
+            n/=10L;
         }
-        System.out.println(sum);
+        System.out.print(sum);
     }
 }

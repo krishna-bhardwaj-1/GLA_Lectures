@@ -6,20 +6,37 @@ public class Boston_number {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
-        int nc=n;
-        int sum=0,sm=0;
-        while(nc>0){
-            for(int i=2;i<=n/2;i++){
-                if(nc%i==0){ sum+=i; nc/=i;}
+        System.out.println(sum_primefact(n));
+        System.out.println(sumdigit(n));
+    }
+    public static int sum_primefact(int n){
+        int sum=0;
+        for(int i=2;i<=n;i++){
+            if(n%i==0){
+                if(i>9){
+                    int c=i;
+                    while(c>0){
+                        int rem=c%10;
+                        sum+=rem;
+                        c/=10;
+                    }
+                }
+                else{
+                    sum+=i;
+                }
+                n/=i;
+                i=2;
             }
         }
-        System.out.println(sum);
-        while(n>0){
-            int c=n%10;
-            sm+=c;
+        return sum;
+    }
+    public static int sumdigit(int n){
+        int sum2=0;
+        while(n>0) {
+            int rem = n % 10;
+            sum2+=rem;
             n/=10;
         }
-        if(sum==sm) System.out.print(1);
-        else System.out.print(0);
+        return sum2;
     }
 }
