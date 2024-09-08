@@ -11,21 +11,26 @@ public class Boston_number {
     }
     public static int sum_primefact(int n){
         int sum=0;
-        for(int i=2;i<=n;i++){
-            if(n%i==0){
-                if(i>9){
-                    int c=i;
-                    while(c>0){
-                        int rem=c%10;
-                        sum+=rem;
-                        c/=10;
+        while(n!=1){
+            int i=2;
+            while(i<=n){
+                int rem=n%i;
+                if(rem%i==0){
+                    if(i>9){
+                        int c=i;
+                        while(c>0){
+                            int r=c%10;
+                            sum+=r;
+                            c/=10;
+                        }
                     }
+                    else{
+                        sum+=i;
+                    }
+                    n/=i;
                 }
-                else{
-                    sum+=i;
-                }
-                n/=i;
-                i=2;
+                else i++;
+
             }
         }
         return sum;
