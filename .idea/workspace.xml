@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Assignment 6553">
+      <change afterPath="$PROJECT_DIR$/src/codeforces/Divisibility_problem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeforces/Little_nikita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeforces/Three_brothers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeforces/catch_the_coin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Assignment_6498/Boston_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_6498/Boston_number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment_6498/chewbacca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_6498/chewbacca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment_6498/replace_them_all.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_6498/replace_them_all.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +67,7 @@
     "Application.Count_digit.executor": "Run",
     "Application.Data_types_demo.executor": "Run",
     "Application.Dec_to_bin.executor": "Run",
+    "Application.Divisibility_problem.executor": "Run",
     "Application.Fahrenhite_to_celcius.executor": "Run",
     "Application.For_loops.executor": "Run",
     "Application.Fun_Demo.executor": "Run",
@@ -73,6 +76,7 @@
     "Application.Hollow_rhombus_pattern.executor": "Run",
     "Application.Inc_dec.executor": "Run",
     "Application.LCM.executor": "Run",
+    "Application.Little_nikita.executor": "Run",
     "Application.Maximum_in_Array.executor": "Run",
     "Application.Mirror_star_pattern.executor": "Run",
     "Application.Pascals_triangle.executor": "Run",
@@ -148,6 +152,7 @@
     "Application.Q_9.executor": "Run",
     "Application.R4__pattern.executor": "Run",
     "Application.Reverse_array.executor": "Run",
+    "Application.Three_brothers.executor": "Run",
     "Application.Userinput_array.executor": "Run",
     "Application.array.executor": "Run",
     "Application.bin_to_dec.executor": "Run",
@@ -239,14 +244,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723201357898</updated>
-    </task>
-    <task id="LOCAL-00018" summary="patterns">
-      <option name="closed" value="true" />
-      <created>1723571496775</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1723571496775</updated>
     </task>
     <task id="LOCAL-00019" summary="patterns logics">
       <option name="closed" value="true" />
@@ -632,7 +629,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725643298610</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Assignment 6553">
+      <option name="closed" value="true" />
+      <created>1725732894947</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1725732894947</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
