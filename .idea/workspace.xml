@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="CodeForces problems">
-      <change afterPath="$PROJECT_DIR$/src/codeforces/yogurt_sale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeforces/Morning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeforces/Two_elevators.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/Divisibility_problem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/Divisibility_problem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeforces/Little_nikita.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/Little_nikita.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +76,7 @@
     "Application.Little_nikita.executor": "Run",
     "Application.Maximum_in_Array.executor": "Run",
     "Application.Mirror_star_pattern.executor": "Run",
+    "Application.Morning.executor": "Run",
     "Application.Pascals_triangle.executor": "Run",
     "Application.Pattern_1.executor": "Run",
     "Application.Pattern_10.executor": "Run",
@@ -151,6 +151,7 @@
     "Application.R4__pattern.executor": "Run",
     "Application.Reverse_array.executor": "Run",
     "Application.Three_brothers.executor": "Run",
+    "Application.Two_elevators.executor": "Run",
     "Application.Userinput_array.executor": "Run",
     "Application.array.executor": "Run",
     "Application.bin_to_dec.executor": "Run",
@@ -243,14 +244,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723201357898</updated>
-    </task>
-    <task id="LOCAL-00021" summary="patterns using while loop">
-      <option name="closed" value="true" />
-      <created>1723655955686</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1723655955686</updated>
     </task>
     <task id="LOCAL-00022" summary="patterns using while loop">
       <option name="closed" value="true" />
@@ -636,7 +629,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725813082882</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="CodeForces problems">
+      <option name="closed" value="true" />
+      <created>1725936915062</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1725936915062</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
