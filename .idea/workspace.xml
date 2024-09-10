@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Assignment 6553">
-      <change afterPath="$PROJECT_DIR$/src/codeforces/Divisibility_problem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/Little_nikita.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/Three_brothers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/catch_the_coin.java" afterDir="false" />
+    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="CodeForces problems">
+      <change afterPath="$PROJECT_DIR$/src/codeforces/yogurt_sale.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment_6498/Boston_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_6498/Boston_number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codeforces/Divisibility_problem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/Divisibility_problem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codeforces/Little_nikita.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeforces/Little_nikita.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,6 +189,7 @@
     "Application.shopping_game.executor": "Run",
     "Application.simple_input.executor": "Run",
     "Application.watermelon.executor": "Run",
+    "Application.yogurt_sale.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
@@ -244,22 +243,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723201357898</updated>
-    </task>
-    <task id="LOCAL-00019" summary="patterns logics">
-      <option name="closed" value="true" />
-      <created>1723574563530</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1723574563530</updated>
-    </task>
-    <task id="LOCAL-00020" summary="patterns using while loop">
-      <option name="closed" value="true" />
-      <created>1723632781506</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1723632781506</updated>
     </task>
     <task id="LOCAL-00021" summary="patterns using while loop">
       <option name="closed" value="true" />
@@ -637,7 +620,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725732894947</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="Assignment 6553">
+      <option name="closed" value="true" />
+      <created>1725813061653</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1725813061654</updated>
+    </task>
+    <task id="LOCAL-00069" summary="CodeForces problems">
+      <option name="closed" value="true" />
+      <created>1725813082882</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1725813082882</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -675,7 +674,8 @@
     <MESSAGE value="Lecture_6" />
     <MESSAGE value="Lecture_7" />
     <MESSAGE value="Assignment 6553" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assignment 6553" />
+    <MESSAGE value="CodeForces problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="CodeForces problems" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

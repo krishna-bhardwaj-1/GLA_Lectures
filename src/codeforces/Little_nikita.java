@@ -9,7 +9,7 @@ public class Little_nikita {
         while(n>0){
             int a=sc.nextInt();
             int b=sc.nextInt();
-            if(a>=b) System.out.println("YES");
+            if(a>=b && (a-b)%2==0) System.out.println("YES");
             else System.out.println("NO");
             n--;
         }

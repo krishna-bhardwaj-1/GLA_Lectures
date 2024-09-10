@@ -9,12 +9,10 @@ public class Divisibility_problem {
         while(n>0) {
             int a = sc.nextInt();
             int b = sc.nextInt();
-            int i=0;
-            while (a % b != 0) {
-                a += 1;
-                i++;
+            if(a%b==0) System.out.println(0);
+            else{
+                System.out.println(b-(a%b));
             }
-            System.out.println(i);
             n--;
         }
     }
