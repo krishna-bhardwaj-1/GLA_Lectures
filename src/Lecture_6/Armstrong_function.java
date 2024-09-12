@@ -6,7 +6,6 @@ public class Armstrong_function {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
-        System.out.println(Countofdigit(n));
         System.out.println(Armstrong_number(n));
     }
     public static boolean Armstrong_number(int n){

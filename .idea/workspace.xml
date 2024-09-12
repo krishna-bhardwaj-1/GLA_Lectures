@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="CodeForces problems">
       <change afterPath="$PROJECT_DIR$/src/codeforces/Morning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/Two_elevators.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture_6/Armstrong_function.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture_6/Armstrong_function.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,6 +186,7 @@
     "Application.rev_pattern.executor": "Run",
     "Application.reverse_number.executor": "Run",
     "Application.reverse_range.executor": "Run",
+    "Application.rool_no.executor": "Run",
     "Application.search_in_array.executor": "Run",
     "Application.shopping_game.executor": "Run",
     "Application.simple_input.executor": "Run",
@@ -244,14 +245,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723201357898</updated>
-    </task>
-    <task id="LOCAL-00022" summary="patterns using while loop">
-      <option name="closed" value="true" />
-      <created>1723820773695</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1723820773695</updated>
     </task>
     <task id="LOCAL-00023" summary="patterns using while loop">
       <option name="closed" value="true" />
@@ -637,7 +630,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725936915062</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="CodeForces problems">
+      <option name="closed" value="true" />
+      <created>1725991716480</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1725991716480</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
