@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="CodeForces problems">
-      <change afterPath="$PROJECT_DIR$/src/codeforces/Morning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_array/product_of_array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_6/Armstrong_function.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture_6/Armstrong_function.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,6 +179,7 @@
     "Application.pattern_triangle.executor": "Run",
     "Application.prime.executor": "Run",
     "Application.print_series.executor": "Run",
+    "Application.product_of_array.executor": "Run",
     "Application.replace_them_all.executor": "Run",
     "Application.returntype_fun.executor": "Run",
     "Application.returntype_fun2.executor": "Run",
@@ -245,14 +245,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723201357898</updated>
-    </task>
-    <task id="LOCAL-00023" summary="patterns using while loop">
-      <option name="closed" value="true" />
-      <created>1723891068311</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1723891068311</updated>
     </task>
     <task id="LOCAL-00024" summary="patterns using while loop">
       <option name="closed" value="true" />
@@ -638,7 +630,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725991716480</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="CodeForces problems">
+      <option name="closed" value="true" />
+      <created>1726159446102</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1726159446102</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
