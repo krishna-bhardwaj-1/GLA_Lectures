@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="CodeForces problems">
-      <change afterPath="$PROJECT_DIR$/src/Assignment_array/product_of_array.java" afterDir="false" />
+    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Arrays">
+      <change afterPath="$PROJECT_DIR$/src/Assignment_array/Running_sum_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_array/reverse_array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -149,6 +150,7 @@
     "Application.Q_9.executor": "Run",
     "Application.R4__pattern.executor": "Run",
     "Application.Reverse_array.executor": "Run",
+    "Application.Running_sum_array.executor": "Run",
     "Application.Three_brothers.executor": "Run",
     "Application.Two_elevators.executor": "Run",
     "Application.Userinput_array.executor": "Run",
@@ -184,6 +186,7 @@
     "Application.returntype_fun.executor": "Run",
     "Application.returntype_fun2.executor": "Run",
     "Application.rev_pattern.executor": "Run",
+    "Application.reverse_array.executor": "Run",
     "Application.reverse_number.executor": "Run",
     "Application.reverse_range.executor": "Run",
     "Application.rool_no.executor": "Run",
@@ -245,14 +248,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723201357898</updated>
-    </task>
-    <task id="LOCAL-00024" summary="patterns using while loop">
-      <option name="closed" value="true" />
-      <created>1723917204628</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1723917204628</updated>
     </task>
     <task id="LOCAL-00025" summary="Assignment coding blocks">
       <option name="closed" value="true" />
@@ -638,7 +633,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726159446102</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Arrays">
+      <option name="closed" value="true" />
+      <created>1726334878625</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1726334878625</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -677,7 +680,8 @@
     <MESSAGE value="Lecture_7" />
     <MESSAGE value="Assignment 6553" />
     <MESSAGE value="CodeForces problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="CodeForces problems" />
+    <MESSAGE value="Arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrays" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
