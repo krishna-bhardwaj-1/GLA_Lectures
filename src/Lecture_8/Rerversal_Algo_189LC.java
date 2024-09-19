@@ -1,6 +1,6 @@
 package Lecture_8;
 
-public class Rerversal_Algo {
+public class Rerversal_Algo_189LC {
     public static void main(String[] args) {
         int[] arr={1,2,3,4,5,6,7,8};
         int k=3;

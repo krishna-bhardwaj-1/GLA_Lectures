@@ -1,6 +1,6 @@
 package Lecture_8;
 
-public class product_of_array_except_self {
+public class product_of_array_except_self_238LC {
     public static void main(String[] args) {
         int [] arr={2,3,4,6,2};
         //System.out.print(Product(arr)); it retur the adderess

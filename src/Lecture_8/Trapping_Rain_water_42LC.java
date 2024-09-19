@@ -1,6 +1,6 @@
 package Lecture_8;
 
-public class Trapping_Rain_water {
+public class Trapping_Rain_water_42LC {
     public static void main(String[] args) {
         int[] arr={0,1,0,2,1,0,1,3,2,1,2,1};
         System.out.println(Trapping(arr));

@@ -1,6 +1,6 @@
 package Lecture_8;
 
-public class Majority_elements {
+public class Majority_elements_169LC {
     public static void main(String[] args) {
         //Morevoting
         int[] arr={2,2,1,1,1,2,2};

@@ -9,11 +9,15 @@ public class prime_visit {
         while(n>0){
             int a=sc.nextInt();
             int b=sc.nextInt();
-            for(int i=a;i<=b;i++){
-                for(int j=1;j<=a;j++){
-
+            int s=0;
+            for(int p=a;p<=b;p++) {
+                int c = 0;
+                for (int i = 1; i <= p / 2; i++) {
+                    if (p % i == 0) c++;
                 }
+                if (c == 1) s++;
             }
+            System.out.println(s);
             n--;
         }
     }

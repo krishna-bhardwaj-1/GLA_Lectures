@@ -1,6 +1,6 @@
 package Lecture_7;
 
-public class rotate_Array {
+public class rotate_Array_189LC {
     public static void main(String[] args) {
 //        Input: nums = [1,2,3,4,5,6,7], k = 3
 //        Output: [5,6,7,1,2,3,4]

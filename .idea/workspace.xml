@@ -4,14 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Arrays">
-      <change afterPath="$PROJECT_DIR$/src/CB/prime_visit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture_8/Majority_elements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture_8/Rerversal_Algo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture_8/Trapping_Rain_water.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture_8/product_of_array_except_self.java" afterDir="false" />
+    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Leetcode">
+      <change afterPath="$PROJECT_DIR$/src/Lecture_7/Array_swap_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_7/Array_swap_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_7/rever.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_9/Bubble_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_9/Insertion_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_9/Selection_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_9/Selection_sort_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_9/Sorting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_7/reverse_range.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture_7/reverse_range.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CB/prime_visit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CB/prime_visit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture_7/Array_swap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture_7/Array_swap_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture_7/Array_swap_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture_7/Linear_search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture_7/Linear_search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture_7/rotate_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture_7/rotate_Array_189LC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture_8/Majority_elements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture_8/Majority_elements_169LC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture_8/Rerversal_Algo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture_8/Rerversal_Algo_189LC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture_8/Trapping_Rain_water.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture_8/Trapping_Rain_water_42LC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture_8/product_of_array_except_self.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture_8/product_of_array_except_self_238LC.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +73,9 @@
     "Application.Armstrong_function.executor": "Run",
     "Application.Armstrong_no.executor": "Run",
     "Application.Array_swap.executor": "Run",
+    "Application.Array_swap_1.executor": "Run",
     "Application.Array_swap_2.executor": "Run",
+    "Application.Array_swap_3.executor": "Run",
     "Application.Bin_to_dec.executor": "Run",
     "Application.Boston_number.executor": "Run",
     "Application.Count_digit.executor": "Run",
@@ -76,7 +89,9 @@
     "Application.Hollow_diamond_pattern.executor": "Run",
     "Application.Hollow_rhombus_pattern.executor": "Run",
     "Application.Inc_dec.executor": "Run",
+    "Application.Insertion_sort.executor": "Run",
     "Application.LCM.executor": "Run",
+    "Application.Linear_search.executor": "Run",
     "Application.Little_nikita.executor": "Run",
     "Application.Majority_elements.executor": "Run",
     "Application.Maximum_in_Array.executor": "Run",
@@ -157,6 +172,7 @@
     "Application.Rerversal_Algo.executor": "Run",
     "Application.Reverse_array.executor": "Run",
     "Application.Running_sum_array.executor": "Run",
+    "Application.Selection_sort.executor": "Run",
     "Application.Three_brothers.executor": "Run",
     "Application.Trapping_Rain_water.executor": "Run",
     "Application.Two_elevators.executor": "Run",
@@ -187,6 +203,7 @@
     "Application.pattern_magic.executor": "Run",
     "Application.pattern_triangle.executor": "Run",
     "Application.prime.executor": "Run",
+    "Application.prime_visit.executor": "Run",
     "Application.print_series.executor": "Run",
     "Application.product_of_array.executor": "Run",
     "Application.product_of_array_except_self.executor": "Run",
@@ -194,6 +211,7 @@
     "Application.returntype_fun.executor": "Run",
     "Application.returntype_fun2.executor": "Run",
     "Application.rev_pattern.executor": "Run",
+    "Application.rever.executor": "Run",
     "Application.reverse_array.executor": "Run",
     "Application.reverse_number.executor": "Run",
     "Application.reverse_range.executor": "Run",
@@ -212,7 +230,8 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/krishna/IdeaProjects/GLA_classes/Lec_1/src/Main.java"
+    "onboarding.tips.debug.path": "/Users/krishna/IdeaProjects/GLA_classes/Lec_1/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
   <component name="RunManager">
@@ -257,14 +276,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723201357898</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Assignment coding blocks">
-      <option name="closed" value="true" />
-      <created>1723983683528</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1723983683528</updated>
     </task>
     <task id="LOCAL-00029" summary="Assignment coding blocks(array)">
       <option name="closed" value="true" />
@@ -650,7 +661,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726590296613</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="Leetcode">
+      <option name="closed" value="true" />
+      <created>1726681201492</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1726681201492</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -665,7 +684,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Loop demo" />
     <MESSAGE value="pattern" />
     <MESSAGE value="pyramid pattern" />
     <MESSAGE value="pyramid pattern/Arrow patterns" />
@@ -690,7 +708,8 @@
     <MESSAGE value="Assignment 6553" />
     <MESSAGE value="CodeForces problems" />
     <MESSAGE value="Arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arrays" />
+    <MESSAGE value="Leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
