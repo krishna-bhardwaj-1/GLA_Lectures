@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Lecture 9">
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6685/Inverse_of_an_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Remove_element_132LC.java" afterDir="false" />
+    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Array assignment">
+      <change afterPath="$PROJECT_DIR$/src/Assignment_6685/Array_linear_search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_6685/Array_target_sum_pairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_6685/Array_target_sum_triplets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_6685/Max_value_in_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_6685/Pair_of_roses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Plus_One.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,10 +61,13 @@
     "Application.Any_to_Any.executor": "Run",
     "Application.Armstrong_function.executor": "Run",
     "Application.Armstrong_no.executor": "Run",
+    "Application.Array_linear_search.executor": "Run",
     "Application.Array_swap.executor": "Run",
     "Application.Array_swap_1.executor": "Run",
     "Application.Array_swap_2.executor": "Run",
     "Application.Array_swap_3.executor": "Run",
+    "Application.Array_target_sum_pairs.executor": "Run",
+    "Application.Array_target_sum_triplets.executor": "Run",
     "Application.Bin_to_dec.executor": "Run",
     "Application.Boston_number.executor": "Run",
     "Application.Count_digit.executor": "Run",
@@ -80,9 +87,11 @@
     "Application.Linear_search.executor": "Run",
     "Application.Little_nikita.executor": "Run",
     "Application.Majority_elements.executor": "Run",
+    "Application.Max_value_in_array.executor": "Run",
     "Application.Maximum_in_Array.executor": "Run",
     "Application.Mirror_star_pattern.executor": "Run",
     "Application.Morning.executor": "Run",
+    "Application.Pair_of_roses.executor": "Run",
     "Application.Pascals_triangle.executor": "Run",
     "Application.Pattern_1.executor": "Run",
     "Application.Pattern_10.executor": "Run",
@@ -125,6 +134,7 @@
     "Application.Pattern_number_ladder.executor": "Run",
     "Application.Pattern_rhombus.executor": "Run",
     "Application.Pattern_with_zeroes.executor": "Run",
+    "Application.Plus_One.executor": "Run",
     "Application.Prime_Game.executor": "Run",
     "Application.Print_series.executor": "Run",
     "Application.Q_1.executor": "Run",
@@ -263,14 +273,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723201357898</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Assignment coding blocks(array)">
-      <option name="closed" value="true" />
-      <created>1724087112112</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1724087112112</updated>
     </task>
     <task id="LOCAL-00031" summary="pattern using while">
       <option name="closed" value="true" />
@@ -656,7 +658,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726769356677</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="Array assignment">
+      <option name="closed" value="true" />
+      <created>1726854998360</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1726854998360</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -671,7 +681,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="pyramid pattern" />
     <MESSAGE value="pyramid pattern/Arrow patterns" />
     <MESSAGE value="Numbers pyramid patterns" />
     <MESSAGE value="patterns" />
@@ -696,7 +705,8 @@
     <MESSAGE value="Arrays" />
     <MESSAGE value="Leetcode" />
     <MESSAGE value="Lecture 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lecture 9" />
+    <MESSAGE value="Array assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Array assignment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
