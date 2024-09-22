@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Array assignment">
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6685/Reverse_an_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6685/Sort_just_0and1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6685/Square_of_sorted_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Plus_One.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment_6685/Pair_of_roses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_6685/Pair_of_roses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_9/Selection_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture_9/Selection_sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_9/Selection_sort_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture_9/Selection_sort_.java" afterDir="false" />
-    </list>
+    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Array assignment" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -278,22 +269,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723201357898</updated>
-    </task>
-    <task id="LOCAL-00032" summary="pattern using while">
-      <option name="closed" value="true" />
-      <created>1724177889952</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1724177889952</updated>
-    </task>
-    <task id="LOCAL-00033" summary="pattern using while">
-      <option name="closed" value="true" />
-      <created>1724178629284</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1724178629284</updated>
     </task>
     <task id="LOCAL-00034" summary="pattern using while">
       <option name="closed" value="true" />
@@ -671,7 +646,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726941042041</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="Array assignment">
+      <option name="closed" value="true" />
+      <created>1727027385712</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1727027385713</updated>
+    </task>
+    <task id="LOCAL-00082" summary="Array assignment">
+      <option name="closed" value="true" />
+      <created>1727027408532</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1727027408532</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
