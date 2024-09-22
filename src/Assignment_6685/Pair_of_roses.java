@@ -13,10 +13,15 @@ public class Pair_of_roses {
                 arr[i] = sc.nextInt();
             }
             Sort(arr);
+            int diff=0;
+            int a=0;
+            int b=0;
             int tar = sc.nextInt();
             for (int i = 0; i < n; i++) {
                 for (int j = i + 1; j < n; j++) {
-                    if (arr[i] + arr[j] == tar) System.out.println("Deepak should buy roses whose prices are "+arr[i] + " and " + arr[j]);
+                    if (arr[i] + arr[j] == tar){
+
+                    }
                 }
             }
             turn--;
