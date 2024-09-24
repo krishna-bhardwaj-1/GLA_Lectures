@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Array assignment">
+      <change afterPath="$PROJECT_DIR$/src/Assignment_6685/Bubble_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_6685/Insertion_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_6685/Product_of_array_exceptself.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_6685/Running_sum_of_the_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_6685/Selection_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_6685/Von_Neumann_Loves_Library.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture_9/Bubble_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture_9/Bubble_sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture_9/Selection_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture_9/Selection_sort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +72,7 @@
     "Application.Array_target_sum_triplets.executor": "Run",
     "Application.Bin_to_dec.executor": "Run",
     "Application.Boston_number.executor": "Run",
+    "Application.Bubble_sort.executor": "Run",
     "Application.Count_digit.executor": "Run",
     "Application.Data_types_demo.executor": "Run",
     "Application.Dec_to_bin.executor": "Run",
@@ -131,6 +140,7 @@
     "Application.Plus_One.executor": "Run",
     "Application.Prime_Game.executor": "Run",
     "Application.Print_series.executor": "Run",
+    "Application.Product_of_array_exceptself.executor": "Run",
     "Application.Q_1.executor": "Run",
     "Application.Q_10.executor": "Run",
     "Application.Q_11.executor": "Run",
@@ -164,6 +174,8 @@
     "Application.Reverse_an_array.executor": "Run",
     "Application.Reverse_array.executor": "Run",
     "Application.Running_sum_array.executor": "Run",
+    "Application.Running_sum_of_the_array.executor": "Run",
+    "Application.Selection_Sort.executor": "Run",
     "Application.Selection_sort.executor": "Run",
     "Application.Selection_sort_.executor": "Run",
     "Application.Sort_just_0and1.executor": "Run",
@@ -172,6 +184,7 @@
     "Application.Trapping_Rain_water.executor": "Run",
     "Application.Two_elevators.executor": "Run",
     "Application.Userinput_array.executor": "Run",
+    "Application.Von_Neumann_Loves_Library.executor": "Run",
     "Application.array.executor": "Run",
     "Application.bin_to_dec.executor": "Run",
     "Application.catch_the_coin.executor": "Run",
@@ -271,14 +284,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723201357898</updated>
-    </task>
-    <task id="LOCAL-00035" summary="pattern using while">
-      <option name="closed" value="true" />
-      <created>1724262859201</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1724262859201</updated>
     </task>
     <task id="LOCAL-00036" summary="pattern using while">
       <option name="closed" value="true" />
@@ -664,7 +669,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727027449106</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="Array assignment">
+      <option name="closed" value="true" />
+      <created>1727115682068</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1727115682068</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

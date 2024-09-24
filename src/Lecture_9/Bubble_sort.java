@@ -17,7 +17,6 @@ public class Bubble_sort {
                     arr[i+1]=temp;
                 }
             }
-
         }
     }
 }
