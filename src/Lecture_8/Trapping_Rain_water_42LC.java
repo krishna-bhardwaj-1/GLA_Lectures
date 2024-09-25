@@ -23,5 +23,4 @@ public class Trapping_Rain_water_42LC {
         }
         return sum;
     }
-
 }

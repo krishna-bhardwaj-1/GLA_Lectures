@@ -5,15 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Array assignment">
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6685/Bubble_sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6685/Insertion_sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6685/Product_of_array_exceptself.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6685/Running_sum_of_the_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6685/Selection_Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6685/Von_Neumann_Loves_Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_6685/Majoriy_element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_6685/Trapping_rain_water.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_10/Binary_Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_10/First_bad_version_LC278.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_10/Kadanes_Algo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_10/Kth_Root.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_10/Maximun_subarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_10/Next_Permutation_LC31.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_9/Bubble_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture_9/Bubble_sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_9/Selection_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture_9/Selection_sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture_8/Trapping_Rain_water_42LC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture_8/Trapping_Rain_water_42LC.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +72,7 @@
     "Application.Array_target_sum_pairs.executor": "Run",
     "Application.Array_target_sum_triplets.executor": "Run",
     "Application.Bin_to_dec.executor": "Run",
+    "Application.Binary_Search.executor": "Run",
     "Application.Boston_number.executor": "Run",
     "Application.Bubble_sort.executor": "Run",
     "Application.Count_digit.executor": "Run",
@@ -78,6 +80,7 @@
     "Application.Dec_to_bin.executor": "Run",
     "Application.Divisibility_problem.executor": "Run",
     "Application.Fahrenhite_to_celcius.executor": "Run",
+    "Application.First_bad_version_LC278.executor": "Run",
     "Application.For_loops.executor": "Run",
     "Application.Fun_Demo.executor": "Run",
     "Application.GCD.executor": "Run",
@@ -86,14 +89,19 @@
     "Application.Inc_dec.executor": "Run",
     "Application.Insertion_sort.executor": "Run",
     "Application.Inverse_of_an_array.executor": "Run",
+    "Application.Kadanes_Algo.executor": "Run",
+    "Application.Kth_Root.executor": "Run",
     "Application.LCM.executor": "Run",
     "Application.Linear_search.executor": "Run",
     "Application.Little_nikita.executor": "Run",
     "Application.Majority_elements.executor": "Run",
+    "Application.Majoriy_element.executor": "Run",
     "Application.Max_value_in_array.executor": "Run",
     "Application.Maximum_in_Array.executor": "Run",
+    "Application.Maximun_subarray.executor": "Run",
     "Application.Mirror_star_pattern.executor": "Run",
     "Application.Morning.executor": "Run",
+    "Application.Next_Permutation_LC31.executor": "Run",
     "Application.Pair_of_roses.executor": "Run",
     "Application.Pascals_triangle.executor": "Run",
     "Application.Pattern_1.executor": "Run",
@@ -182,6 +190,7 @@
     "Application.Square_of_sorted_array.executor": "Run",
     "Application.Three_brothers.executor": "Run",
     "Application.Trapping_Rain_water.executor": "Run",
+    "Application.Trapping_rain_water.executor": "Run",
     "Application.Two_elevators.executor": "Run",
     "Application.Userinput_array.executor": "Run",
     "Application.Von_Neumann_Loves_Library.executor": "Run",
@@ -284,14 +293,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723201357898</updated>
-    </task>
-    <task id="LOCAL-00036" summary="pattern using while">
-      <option name="closed" value="true" />
-      <created>1724316412837</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1724316412837</updated>
     </task>
     <task id="LOCAL-00037" summary="pattern using while">
       <option name="closed" value="true" />
@@ -677,7 +678,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727115682068</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="Array assignment">
+      <option name="closed" value="true" />
+      <created>1727198679452</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1727198679452</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
