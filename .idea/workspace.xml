@@ -4,17 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Array assignment">
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6685/Majoriy_element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6685/Trapping_rain_water.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture_10/Binary_Search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture_10/First_bad_version_LC278.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture_10/Kadanes_Algo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture_10/Kth_Root.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture_10/Maximun_subarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture_10/Next_Permutation_LC31.java" afterDir="false" />
+    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="binary search">
+      <change afterPath="$PROJECT_DIR$/src/Assignment_6685/How_many_questions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_6685/Maximum_circular_sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_6685/Next_permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture_11/Time_Complexity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture_8/Trapping_Rain_water_42LC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture_8/Trapping_Rain_water_42LC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment_6685/Pair_of_roses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_6685/Pair_of_roses.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +82,7 @@
     "Application.GCD.executor": "Run",
     "Application.Hollow_diamond_pattern.executor": "Run",
     "Application.Hollow_rhombus_pattern.executor": "Run",
+    "Application.How_many_questions.executor": "Run",
     "Application.Inc_dec.executor": "Run",
     "Application.Insertion_sort.executor": "Run",
     "Application.Inverse_of_an_array.executor": "Run",
@@ -97,6 +94,7 @@
     "Application.Majority_elements.executor": "Run",
     "Application.Majoriy_element.executor": "Run",
     "Application.Max_value_in_array.executor": "Run",
+    "Application.Maximum_circular_sum.executor": "Run",
     "Application.Maximum_in_Array.executor": "Run",
     "Application.Maximun_subarray.executor": "Run",
     "Application.Mirror_star_pattern.executor": "Run",
@@ -189,6 +187,7 @@
     "Application.Sort_just_0and1.executor": "Run",
     "Application.Square_of_sorted_array.executor": "Run",
     "Application.Three_brothers.executor": "Run",
+    "Application.Time_Complexity.executor": "Run",
     "Application.Trapping_Rain_water.executor": "Run",
     "Application.Trapping_rain_water.executor": "Run",
     "Application.Two_elevators.executor": "Run",
@@ -293,14 +292,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723201357898</updated>
-    </task>
-    <task id="LOCAL-00037" summary="pattern using while">
-      <option name="closed" value="true" />
-      <created>1724344219704</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1724344219704</updated>
     </task>
     <task id="LOCAL-00038" summary="Lecture_3">
       <option name="closed" value="true" />
@@ -686,7 +677,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727198679452</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="binary search">
+      <option name="closed" value="true" />
+      <created>1727285392529</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1727285392529</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -701,8 +700,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="pyramid pattern/Arrow patterns" />
-    <MESSAGE value="Numbers pyramid patterns" />
     <MESSAGE value="patterns" />
     <MESSAGE value="patterns logics" />
     <MESSAGE value="patterns using while loop" />
@@ -726,7 +723,9 @@
     <MESSAGE value="Leetcode" />
     <MESSAGE value="Lecture 9" />
     <MESSAGE value="Array assignment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Array assignment" />
+    <MESSAGE value="Lecture-10 binary search" />
+    <MESSAGE value="binary search" />
+    <option name="LAST_COMMIT_MESSAGE" value="binary search" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

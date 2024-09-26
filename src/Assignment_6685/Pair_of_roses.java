@@ -13,18 +13,24 @@ public class Pair_of_roses {
                 arr[i] = sc.nextInt();
             }
             Sort(arr);
-            int diff=0;
-            int a=0;
-            int b=0;
+
             int tar = sc.nextInt();
+            int max=tar;
+            int a=0,b=0;
             for (int i = 0; i < n; i++) {
                 for (int j = i + 1; j < n; j++) {
                     if (arr[i] + arr[j] == tar){
-
+                        if(max>arr[i]-arr[j]) {
+                            a = arr[i];
+                            b = arr[j];
+                            max = Math.min(max, (arr[i] - arr[j]));
+                        }
                     }
                 }
             }
+            System.out.print(a+" "+b);
             turn--;
+
         }
     }
     public static void Sort(int[] arr){
