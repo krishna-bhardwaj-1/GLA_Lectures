@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="binary search">
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6685/How_many_questions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6685/Maximum_circular_sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6685/Next_permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture_11/Time_Complexity.java" afterDir="false" />
+    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Lecture">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment_6685/Pair_of_roses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_6685/Pair_of_roses.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -292,14 +287,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723201357898</updated>
-    </task>
-    <task id="LOCAL-00038" summary="Lecture_3">
-      <option name="closed" value="true" />
-      <created>1724344244747</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1724344244747</updated>
     </task>
     <task id="LOCAL-00039" summary="Assignment_6478">
       <option name="closed" value="true" />
@@ -685,7 +672,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727285392529</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="Lecture">
+      <option name="closed" value="true" />
+      <created>1727372180024</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1727372180024</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -700,7 +695,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="patterns" />
     <MESSAGE value="patterns logics" />
     <MESSAGE value="patterns using while loop" />
     <MESSAGE value="Assignment coding blocks" />
@@ -725,7 +719,8 @@
     <MESSAGE value="Array assignment" />
     <MESSAGE value="Lecture-10 binary search" />
     <MESSAGE value="binary search" />
-    <option name="LAST_COMMIT_MESSAGE" value="binary search" />
+    <MESSAGE value="Lecture" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lecture" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
