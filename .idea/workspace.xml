@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Lecture">
+    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Complexity">
+      <change afterPath="$PROJECT_DIR$/src/Assignment_6685/Help_Ramu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment_6685/Pair_of_roses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_6685/Pair_of_roses.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +77,7 @@
     "Application.For_loops.executor": "Run",
     "Application.Fun_Demo.executor": "Run",
     "Application.GCD.executor": "Run",
+    "Application.Help_Ramu.executor": "Run",
     "Application.Hollow_diamond_pattern.executor": "Run",
     "Application.Hollow_rhombus_pattern.executor": "Run",
     "Application.How_many_questions.executor": "Run",
@@ -287,14 +290,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723201357898</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Assignment_6478">
-      <option name="closed" value="true" />
-      <created>1724433269775</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1724433269775</updated>
     </task>
     <task id="LOCAL-00040" summary="Assignment_6478">
       <option name="closed" value="true" />
@@ -680,7 +675,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727372180024</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="Complexity">
+      <option name="closed" value="true" />
+      <created>1727543091967</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1727543091967</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -695,7 +698,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="patterns logics" />
     <MESSAGE value="patterns using while loop" />
     <MESSAGE value="Assignment coding blocks" />
     <MESSAGE value="Assignment coding blocks(array)" />
@@ -720,7 +722,8 @@
     <MESSAGE value="Lecture-10 binary search" />
     <MESSAGE value="binary search" />
     <MESSAGE value="Lecture" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lecture" />
+    <MESSAGE value="Complexity" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complexity" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
