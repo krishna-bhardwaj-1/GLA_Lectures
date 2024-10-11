@@ -19,8 +19,12 @@ public class Help_Ramu {
     }
     public static boolean correct(int x, int y, int[] arr){
         int c=0;
+        int sum=0;
         for(int i=0;i<arr.length;i++){
-            if(arr[i]<=x) c++;
+            if(arr[i]<=x&&sum<x) {
+                sum+=arr[i];
+                c++;
+            }
         }
         if(c==y) return true;
         else return false;
