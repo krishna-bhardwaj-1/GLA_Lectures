@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="array">
-      <change afterPath="$PROJECT_DIR$/src/Assignment_6685/Maximun_Circular_sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Two_Sum_1LC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Best_time_to_buy_and_sell_stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Power_of_Two.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment_6685/Help_Ramu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_6685/Help_Ramu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment_6685/Maximum_circular_sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_6685/Maximum_circular_sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment_6685/Maximun_Circular_sum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture_10/Maximun_subarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture_10/Maximun_subarray_LC53.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Two_Sum_1LC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Two_Sum_1LC.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +68,7 @@
     "Application.Array_swap_3.executor": "Run",
     "Application.Array_target_sum_pairs.executor": "Run",
     "Application.Array_target_sum_triplets.executor": "Run",
+    "Application.Best_time_to_buy_and_sell_stock.executor": "Run",
     "Application.Bin_to_dec.executor": "Run",
     "Application.Binary_Search.executor": "Run",
     "Application.Boston_number.executor": "Run",
@@ -144,6 +148,7 @@
     "Application.Pattern_rhombus.executor": "Run",
     "Application.Pattern_with_zeroes.executor": "Run",
     "Application.Plus_One.executor": "Run",
+    "Application.Power_of_Two.executor": "Run",
     "Application.Prime_Game.executor": "Run",
     "Application.Print_series.executor": "Run",
     "Application.Product_of_array_exceptself.executor": "Run",
@@ -293,14 +298,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723201357898</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Assignment_6478">
-      <option name="closed" value="true" />
-      <created>1724501273789</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1724501273789</updated>
     </task>
     <task id="LOCAL-00042" summary="Assignment_6478">
       <option name="closed" value="true" />
@@ -686,7 +683,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728584646183</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="array">
+      <option name="closed" value="true" />
+      <created>1728665714461</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1728665714461</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

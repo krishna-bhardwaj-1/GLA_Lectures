@@ -2,7 +2,7 @@ package Lecture_10;
 
 import java.util.Scanner;
 
-public class Maximun_subarray {
+public class Maximun_subarray_LC53 {
     public static void main(String[] args) {
         // { 2 3 -7 5 -1 7 }
         /*

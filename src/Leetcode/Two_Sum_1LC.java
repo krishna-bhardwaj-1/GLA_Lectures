@@ -9,8 +9,8 @@ public class Two_Sum_1LC {
             System.out.print(a[i]+" ");
     }
     public static int[] sumtarg(int[] arr,int tar){
-        for(int i=0;i<arr.length-2;i++){
-            for(int j=i+1;j<arr.length-1;j++){
+        for(int i=0;i<arr.length-1;i++){
+            for(int j=i+1;j<arr.length;j++){
                 if(arr[i]+arr[j]==tar){
                     return new int[]{i,j};
                 }
