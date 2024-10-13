@@ -17,6 +17,7 @@ public class Maximum_circular_sum {
             for (int i = 0; i < p; i++) {
                 for (int j = p + i - 1; j >= i; j--) {
                     sum += arr[j % p];
+                    System.out.println(sum);
                 }
                 maxsum = Math.max(maxsum, sum);
             }
