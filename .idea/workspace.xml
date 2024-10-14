@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Array">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Reverse_String_344LC.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,6 +181,7 @@
     "Application.R4__pattern.executor": "Run",
     "Application.Remove_element_132LC.executor": "Run",
     "Application.Rerversal_Algo.executor": "Run",
+    "Application.Reverse_String_344LC.executor": "Run",
     "Application.Reverse_an_array.executor": "Run",
     "Application.Reverse_array.executor": "Run",
     "Application.Running_sum_array.executor": "Run",
