@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Leetcode">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Array">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -299,22 +298,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723201357898</updated>
-    </task>
-    <task id="LOCAL-00044" summary="Lecture 3">
-      <option name="closed" value="true" />
-      <created>1724501340014</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1724501340014</updated>
-    </task>
-    <task id="LOCAL-00045" summary="Lecture 3">
-      <option name="closed" value="true" />
-      <created>1724585742792</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1724585742792</updated>
     </task>
     <task id="LOCAL-00046" summary="Number pattern">
       <option name="closed" value="true" />
@@ -692,7 +675,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728837117521</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="Array">
+      <option name="closed" value="true" />
+      <created>1728920762211</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1728920762211</updated>
+    </task>
+    <task id="LOCAL-00094" summary="Array">
+      <option name="closed" value="true" />
+      <created>1728920899910</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1728920899910</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -707,7 +706,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Assignment coding blocks" />
     <MESSAGE value="Assignment coding blocks(array)" />
     <MESSAGE value="Lecture_3" />
     <MESSAGE value="Assignment_6478" />
@@ -732,7 +730,8 @@
     <MESSAGE value="Complexity" />
     <MESSAGE value="array" />
     <MESSAGE value="Leetcode" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode" />
+    <MESSAGE value="Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Array" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
