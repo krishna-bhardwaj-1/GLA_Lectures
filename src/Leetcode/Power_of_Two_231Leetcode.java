@@ -1,6 +1,6 @@
 package Leetcode;
 
-public class Power_of_Two_231LC {
+public class Power_of_Two_231Leetcode {
     public static void main(String[] args) {
         int n=1;
         System.out.println(valid(n));
