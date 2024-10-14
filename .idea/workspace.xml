@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Array" />
+    <list default="true" id="725963ee-c2a6-415d-b33f-a15b24500fd6" name="Changes" comment="Array">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +22,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -254,7 +257,7 @@
     "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Any_to_Any">
+  <component name="RunManager">
     <configuration name="Any_to_Any" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Assignment_6498.Any_to_Any" />
       <module name="GLA_classes" />
@@ -296,22 +299,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723201357898</updated>
-    </task>
-    <task id="LOCAL-00050" summary="Number_pattern">
-      <option name="closed" value="true" />
-      <created>1724780924318</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1724780924319</updated>
-    </task>
-    <task id="LOCAL-00051" summary="data types">
-      <option name="closed" value="true" />
-      <created>1724866370383</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1724866370384</updated>
     </task>
     <task id="LOCAL-00052" summary="data types">
       <option name="closed" value="true" />
@@ -689,7 +676,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728923805259</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="Array">
+      <option name="closed" value="true" />
+      <created>1728923981663</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1728923981663</updated>
+    </task>
+    <task id="LOCAL-00100" summary="Array">
+      <option name="closed" value="true" />
+      <created>1728924076632</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1728924076632</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

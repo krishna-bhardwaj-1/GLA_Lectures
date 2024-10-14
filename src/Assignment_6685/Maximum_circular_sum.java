@@ -13,13 +13,12 @@ public class Maximum_circular_sum {
                 arr[i] = sc.nextInt();
             }
             int maxsum = 0;
-            int sum = 0;
             for (int i = 0; i < p; i++) {
+                int sum = 0;
                 for (int j = p + i - 1; j >= i; j--) {
                     sum += arr[j % p];
-                    System.out.println(sum);
+                    if(maxsum<sum) maxsum=sum;
                 }
-                maxsum = Math.max(maxsum, sum);
             }
             System.out.println(maxsum);
             n--;

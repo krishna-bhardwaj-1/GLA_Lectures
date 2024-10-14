@@ -10,7 +10,8 @@ public class Bubble_sort {
         for(int g=0;g<m;g++)
             arry[g]=sc.nextInt();
         bubblesort(arry);
-        for(int g=0;g<m;g++){
+        for(int g=0;g<m;g++)
+        {
             System.out.println(arry[g]);
         }
 
