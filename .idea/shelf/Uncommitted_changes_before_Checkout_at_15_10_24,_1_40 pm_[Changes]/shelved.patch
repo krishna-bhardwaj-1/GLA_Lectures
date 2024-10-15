@@ -1,0 +1,40 @@
+Index: src/Assignment_6685/Max_value_in_array.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package Assignment_6685;\n\nimport java.util.Scanner;\n\npublic class Max_value_in_array {\n    public static void main(String[] args) {\n        Scanner sc=new Scanner(System.in);\n        int n=sc.nextInt();\n        int[] arr=new int[n];\n        for(int i=0;i<n;i++)\n            arr[i]=sc.nextInt();\n        System.out.print(max(arr));\n    }\n    public static int max(int[] arr){\n        for(int i=1;i<arr.length;i++){\n            if(arr[i]>arr[0]) arr[0]=arr[i];\n        }\n        return arr[0];\n    }\n}\n
+===================================================================
+diff --git a/src/Assignment_6685/Max_value_in_array.java b/src/Assignment_6685/Max_value_in_array.java
+--- a/src/Assignment_6685/Max_value_in_array.java	
++++ b/src/Assignment_6685/Max_value_in_array.java	
+@@ -1,20 +1,20 @@
+-package Assignment_6685;
++package Assignment_1;
+ 
+ import java.util.Scanner;
+ 
+-public class Max_value_in_array {
++public class max_value_in_array {
+     public static void main(String[] args) {
+         Scanner sc=new Scanner(System.in);
+         int n=sc.nextInt();
+-        int[] arr=new int[n];
+-        for(int i=0;i<n;i++)
+-            arr[i]=sc.nextInt();
+-        System.out.print(max(arr));
+-    }
+-    public static int max(int[] arr){
+-        for(int i=1;i<arr.length;i++){
+-            if(arr[i]>arr[0]) arr[0]=arr[i];
++        int a[]=new int[n];
++        int i;
++        for( i=0;i<n;i++){
++            a[i]=sc.nextInt();
++        }
++        int c=a[0];
++        for(i=0;i<n;i++) {
++            if(c<a[i]) c=a[i];
+         }
+-        return arr[0];
++        System.out.print(c);
+     }
+ }
