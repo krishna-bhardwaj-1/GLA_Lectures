@@ -14,6 +14,7 @@ public class Pascals_triangle {
                 c = ((row - i) * c) / (i + 1);
                 i++;
             }
+
             row++;
             System.out.println();
             star++;

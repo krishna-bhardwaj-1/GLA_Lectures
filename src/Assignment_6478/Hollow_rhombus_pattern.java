@@ -11,6 +11,7 @@ public class Hollow_rhombus_pattern {
         int row=1;
         while(row<=n){
             int i=1,j=1;
+
             while(i<=space){
                 System.out.print(" ");
                 i++;
